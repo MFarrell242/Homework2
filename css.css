@@ -1,0 +1,9 @@
+.container {
+    background-color: hotpink;
+    color: black;
+}
+
+#bio-image {
+    max-width: 40%;
+    height: auto;
+}
